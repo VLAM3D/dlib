@@ -6,6 +6,7 @@
 // only do anything with this file if DLIB_JPEG_SUPPORT is defined
 #ifdef DLIB_JPEG_SUPPORT
 
+#include <basetsd.h>
 #include "../array2d.h"
 #include "../pixel.h"
 #include "save_jpeg.h"
