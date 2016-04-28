@@ -6,4 +6,10 @@
 build
 dist
 *.egg-info/
-
+.cproject
+.project
+CMakeCache.txt
+cmake_install.cmake
+dlib_build
+Makefile
+CMakeFiles
